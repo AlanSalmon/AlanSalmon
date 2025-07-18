@@ -1,8 +1,8 @@
 ## 👨🏻‍💼 À propos de moi
 
-- Etudiant ingénieur en alternance
+- Technicien Systèmes et Réseaux
 - Développeur Backend
-- Administrateur Réseau
+- Passionné de techs DevOps
 
 ## 🧑🏻‍💻 Langages de programmation
 
