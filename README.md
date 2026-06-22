@@ -10,7 +10,7 @@
 
 ## 🛠️ Frameworks
 
-![Framework](https://skillicons.dev/icons?i=flask,dotnet&theme=dark)
+![Framework](https://skillicons.dev/icons?i=flask,dotnet,react&theme=dark)
 
 ## 🏛️ Bases de données
 
