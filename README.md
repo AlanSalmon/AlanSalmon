@@ -25,7 +25,7 @@ J'apprends surtout en construisant : la plupart de ce qui est ci-dessous tourne 
 | 🛰️ **Verkko** | Outil web qui scanne mes réseaux privés et liste les appareils connectés : IP, état des VMs, du NAS, plage DHCP. Conçu en POO, documenté avec Sphinx. | Python · POO · Sphinx |
 | 🇫🇮 **Opi!** | Plateforme d'apprentissage du finnois (verbes, phrases, vocabulaire), déployée comme une vraie appli en prod sur mon homelab. | Flask · Redis · Docker · k3s · Terraform |
 | 🏠 **Homelab** | Mon terrain de jeu : virtualisation, conteneurs, réseau privé monté à la main, cluster Kubernetes. [Voir le schéma ↓](#-homelab) | Proxmox · Debian · Synology · Tailscale |
-| 📦 **HomeStock** | Application mobile de gestion de stock à la maison. | React Native · Expo · TypeScript · SQLite |
+| 📦 **HomeStock** | Application mobile d'inventaire (iOS/Android) : produits et catégories en CRUD complet, persistance locale, filtrage par catégorie. Construite version après version pour apprendre React Native proprement. | React Native · Expo · TypeScript · SQLite |
 | 🛒 **[ContApp](https://www.alansalmon.fr/projects/contapp.html)** | Projet DevOps de groupe (BUT R&T) : déploiement de bout en bout d'une appli e-commerce en microservices. | Python · Flask · NATS · Docker · Kubernetes · OpenStack |
 | 🔇 **[Silence Remover](https://www.alansalmon.fr/projects/silence_remover.html)** | Traitement audio : détecte et supprime les silences d'un fichier, avec visualisation des échantillons. | Python · Matplotlib |
 
